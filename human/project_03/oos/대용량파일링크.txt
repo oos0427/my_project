@@ -1,0 +1,12 @@
+네이버 마이박스 링크
+http://naver.me/F9NrUtAu
+
+구글 드라이브 링크 (코랩 작업내용 실시간 공유용)
+https://drive.google.com/drive/folders/1Cq8ukrryuHUjDdH8PKWwBoAfW9TKsNeY?usp=sharing
+
+데이터 내용
+Test_Data_Sets_01.pkl : 전면, 이마, 핸드폰, 색소침착
+
+Test_Data_Sets_02.pkl : 전면, 이마, 핸드폰, 제이슨파일전체
+
+Val_Data_Sets_02.pkl : 02번 데이터의 벨리데이션 세트
